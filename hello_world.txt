@@ -1,0 +1,1 @@
+try to add commit withou -m from terminal 
