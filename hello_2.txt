@@ -1,2 +1,3 @@
 changes 
 testing the  vs code commit config 
+editeing text ot test git commits behaviour 
